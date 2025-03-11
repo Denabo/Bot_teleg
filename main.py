@@ -2,7 +2,7 @@ import telebot
 import time
 
 # Укажите токен вашего бота и ID администратора
-BOT_TOKEN = "7058049208:AAEOjf-NWmsQKYiQSiJaQx5EZeBdt6a1eKI"
+BOT_TOKEN = "8003990780:AAHp0XjBI-YT1HvSKbegVBTN4DkwBNx4uZM"
 ADMIN_ID = 1360417852
 
 # Создаем экземпляр бота
